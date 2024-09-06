@@ -1,5 +1,5 @@
 ## Information Visualisation Project:
-    Point was to make visualisations that explain a lot of various aspects of external f1 data in 1 visualisation, making multiple of those.
+Point was to make visualisations that explain a lot of various aspects of external f1 data in 1 visualisation, making multiple of those.
 
 Install Server:
 
